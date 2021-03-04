@@ -1,0 +1,5 @@
+name: 'Emskaffolden'
+description: 'Docker builds and deployments using Emskaffolden'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
